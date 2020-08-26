@@ -18,7 +18,7 @@
 </div>
 </template>
 <script>
-import accodianTemplate from "@/components/accordianTemplate";
+import accordianTemplate from "@/components/accordianTemplate";
 
 //this is the data and array for the faq accordion page - this should populate the baseAccordian page
 
