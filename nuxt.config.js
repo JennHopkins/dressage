@@ -10,7 +10,8 @@ module.exports = {
       { hid: 'description', name: 'description', content: 'A commercial horse site' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+       {rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Tangerine&display=swap'}
     ]
   },
   /*
@@ -36,4 +37,3 @@ module.exports = {
     }
   }
 }
-
