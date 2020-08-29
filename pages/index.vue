@@ -204,7 +204,9 @@ main {
 
 /*Here is the welcome menu - hope to add a verticle nav bar*/
 .circleW {
-  background: url(https://d13yacurqjgara.cloudfront.net/users/212457/screenshots/2212523/yo.jpg) #000;
+/*  background: url(https://d13yacurqjgara.cloudfront.net/users/212457/screenshots/2212523/yo.jpg) #000;
+*/
+background-color: black;
 }
 
 /*this is the About Our School menu item*/
