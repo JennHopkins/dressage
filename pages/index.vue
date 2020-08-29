@@ -14,7 +14,7 @@
 
   <main>
     <!--main menu item circle-->
-    <div class="circular navcircle">
+    <div class="circular" id="navcircle">
       <h1 class="menu-title">Menu</h1>
        <div class="text">
        <div class="horse-nav">
@@ -203,7 +203,7 @@ main {
 }
 
 /*Here is the welcome menu - hope to add a verticle nav bar*/
-.navcircle {
+#navcircle {
 /*  background: url(https://d13yacurqjgara.cloudfront.net/users/212457/screenshots/2212523/yo.jpg) #000;
 */
 background-color: black;
