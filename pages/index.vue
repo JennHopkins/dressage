@@ -15,7 +15,7 @@
   <main>
     <!--main menu item circle-->
     <div class="circular circleW">
-      <!--<h1 class="menu-title">Menu</h1>-->
+      <h1 class="menu-title">Menu</h1>
        <div class="text">
        <div class="horse-nav">
          <nuxt-link to="/horsetwo" class="horse-list">About</nuxt-link>
