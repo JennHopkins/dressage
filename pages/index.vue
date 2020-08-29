@@ -166,7 +166,7 @@ main {
   transition: all 0.3s ease-in-out;
 }
 
-.white-title {
+.menu-title {
   text-align: center;
   color: white;
   &.boarding {
@@ -308,12 +308,7 @@ footer {
     justify-content: center;
   }
 
-  .white-title {
-    text-align: center;
-    color: white;
-  }
-
-    .circular:hover .text {
+  .circular:hover .text {
       font-size: 80%;
       padding-top: 4px;
       }
