@@ -14,7 +14,7 @@
 
   <main>
     <!--main menu item circle-->
-    <div class="circular one">
+    <div class="circular circleW">
       <h1 class="menu-title">Menu</h1>
        <div class="text">
        <div class="horse-nav">
