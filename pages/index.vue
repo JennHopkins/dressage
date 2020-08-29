@@ -15,7 +15,7 @@
   <main>
     <!--main menu item circle-->
     <div class="circular circleW">
-      <h1 class="menu-title">Menu</h1>
+      <h1 class="white-title">Menu</h1>
        <div class="text">
        <div class="horse-nav">
          <nuxt-link to="/horsetwo" class="horse-list">About</nuxt-link>
@@ -157,16 +157,27 @@ main {
   opacity: 1;
   }
 
-.text {
-  color: black;
-  font-weight: bold;
-  opacity: 0;
-  text-align: left;
-  margin: auto 0;
-  transition: all 0.3s ease-in-out;
-}
+/*
+  .text {
+    color: black;
+    font-weight: bold;
+    opacity: 0;
+    text-align: left;
+    margin: auto 0;
+    transition: all 0.3s ease-in-out;
+  }
+  */
 
+/*
 .menu-title {
+  margin-top: 30%;
+  text-align: center;
+  color: white;
+  font-weight: normal;
+  font-size: 250%;
+  }
+*/
+.white-title {
   text-align: center;
   color: white;
   &.boarding {
@@ -180,14 +191,6 @@ main {
     padding: 10%;
   }
 }
-
-.menu-title {
-  margin-top: 30%;
-  text-align: center;
-  color: white;
-  font-weight: normal;
-  font-size: 250%;
-  }
 
 /*this is the circle template for all of the preview objects*/
 
