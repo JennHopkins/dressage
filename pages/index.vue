@@ -308,6 +308,11 @@ footer {
     justify-content: center;
   }
 
+  .white-title {
+    text-align: center;
+    color: white;
+  }
+
     .circular:hover .text {
       font-size: 80%;
       padding-top: 4px;
