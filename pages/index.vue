@@ -15,7 +15,7 @@
   <main>
     <!--main menu item circle-->
     <div class="circular circleW">
-      <h1 class="white-title">Menu</h1>
+      <!--<h1 class="menu-title">Menu</h1>-->
        <div class="text">
        <div class="horse-nav">
          <nuxt-link to="/horsetwo" class="horse-list">About</nuxt-link>
@@ -145,6 +145,16 @@ main {
   justify-content: center;
 }
 
+/*this is the circle template for all of the preview objects*/
+
+.circular {
+  width: 200px;
+  height: 200px;
+  margin-left: 1%;
+  border-radius: 50%;
+  transition: all 0.3s ease-in-out;
+}
+
 /*All the hover effects - tada!*/
 .circular:hover {
   border-radius: 0;
@@ -190,16 +200,6 @@ main {
   &.trainer {
     padding: 10%;
   }
-}
-
-/*this is the circle template for all of the preview objects*/
-
-.circular {
-  width: 20px;
-  height: 20px;
-  margin-left: 1%;
-  border-radius: 50%;
-  transition: all 0.3s ease-in-out;
 }
 
 /*Here is the welcome menu - hope to add a verticle nav bar*/
