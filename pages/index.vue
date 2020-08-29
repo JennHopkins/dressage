@@ -157,7 +157,7 @@ main {
   opacity: 1;
   }
 
-/*
+
   .text {
     color: black;
     font-weight: bold;
@@ -166,9 +166,9 @@ main {
     margin: auto 0;
     transition: all 0.3s ease-in-out;
   }
-  */
+  
 
-/*
+
 .menu-title {
   margin-top: 30%;
   text-align: center;
@@ -176,7 +176,7 @@ main {
   font-weight: normal;
   font-size: 250%;
   }
-*/
+
 .white-title {
   text-align: center;
   color: white;
