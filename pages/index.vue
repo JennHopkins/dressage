@@ -14,7 +14,7 @@
 
   <main>
     <!--main menu item circle-->
-    <div class="circular" id="navcircle">
+    <div class="circular circleW">
       <h1 class="menu-title">Menu</h1>
        <div class="text">
        <div class="horse-nav">
@@ -202,13 +202,6 @@ main {
   }
 }
 
-/*Here is the welcome menu - hope to add a verticle nav bar*/
-#navcircle {
-/*  background: url(https://d13yacurqjgara.cloudfront.net/users/212457/screenshots/2212523/yo.jpg) #000;
-*/
-background-color: black;
-}
-
 /*this is the About Our School menu item*/
 .one {
   background: url("../assets/images/barnandstable.jpg");
@@ -229,6 +222,12 @@ background-color: black;
   background-size: 160%;
   background-position: right 10% top 50%;
   background-repeat: no-repeat;
+}
+
+/*Here is the welcome menu - hope to add a verticle nav bar*/
+.circleW {
+  background: url(https://d13yacurqjgara.cloudfront.net/users/212457/screenshots/2212523/yo.jpg) #000;
+
 }
 
 /*styling for specific items*/
