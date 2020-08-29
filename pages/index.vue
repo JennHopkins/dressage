@@ -166,7 +166,7 @@ main {
     margin: auto 0;
     transition: all 0.3s ease-in-out;
   }
-  
+
 
 
 .menu-title {
@@ -195,8 +195,8 @@ main {
 /*this is the circle template for all of the preview objects*/
 
 .circular {
-  width: 200px;
-  height: 200px;
+  width: 20px;
+  height: 20px;
   margin-left: 1%;
   border-radius: 50%;
   transition: all 0.3s ease-in-out;
