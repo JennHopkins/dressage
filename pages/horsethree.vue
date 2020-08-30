@@ -76,7 +76,7 @@
            <img src="@/assets/images/ladieshorseinties.jpg" alt="a barn and a stable" class="services-pic-three">
          <section class="board-section-left-pic">
            <a name="volunteer"><h2>Volunteer Opportunities</h2></a>
-             <p>For those wanted to get the horse experience or just who enjoy working with horses, you can volunteer to work with the barn, arena or pasture areas. Contact us if interested.</p>
+             <p>For those who want to get the horse experience or just who enjoy working with horses, you can volunteer to work with the barn, arena or pasture areas. Contact us if interested.</p>
              <br>
              <br>
             <a href="#top">Back to Top</a>
