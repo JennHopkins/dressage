@@ -24,13 +24,13 @@ export default {
              //title="carol and horse"
              require("../assets/images/carolandhorse.jpg"),
              //title="dora rides canter pirouette in competition"
-             require("../assets/images/carolandhorse.jpg"),
+             require("../assets/images/doraTrot.jpg"),
              //title="barn, arena and chairs"
              require("../assets/images/barnchairs.jpg"),
              //title="two students in helmets brush a horse in cross ties to ready for riding"
              require("../assets/images/studentsbrushhorse.jpg"),
              //title="dora rides passage in competition"
-             require("../assets/images/dora2"),
+             require("../assets/images/dora2.jpg"),
              //title="an outdoor arena next to a pasture area"
              require("../assets/images/arenapasture.jpg"),
              //title="a saddled horse runs through the arena"
