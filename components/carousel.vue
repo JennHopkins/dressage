@@ -24,7 +24,7 @@ export default {
              //title="carol and horse"
              require("../assets/images/carolandhorse.jpg"),
              //title="dora rides canter pirouette in competition"
-             require("../assets/images/doraTrot"),
+             require("../assets/images/carolandhorse.jpg"),
              //title="barn, arena and chairs"
              require("../assets/images/barnchairs.jpg"),
              //title="two students in helmets brush a horse in cross ties to ready for riding"
