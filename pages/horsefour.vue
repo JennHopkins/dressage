@@ -8,51 +8,45 @@
   <h1 class="title">Meet Our Trainers</h1>
     <h3 class="subtitle">We have on-sight trainers affliated with this barn. They can provide lessons to students of all skill levels.</h3>
     <div>
+      <a href="#Dean" class="about-link">Dora Dean</a>
       <a href="#Dewitt" class="about-link">Debbie Fornia-Dewitt</a>
-      <a href="#Doolittle" class="about-link">Vivian Doolittle</a>
   </div>
 
   <!--div One-->
-    <div class="train-page">
-        <img src="@/assets/images/whitehorsehead.jpg" alt="white horse head in bridle" class="image-style-left">
-        <section class="train-section-left-pic">
-          <a name="Dewitt"><h2>Debbie Fornia-Dewitt</h2></a>
-            <p>Debbie Fornia-Dewitt offers the highest quality in dressage training, tailored toward each individual as well as each horse. She has been riding and training Dressage for over 30 years. Her experience with hundreds of horse-and-rider combinations as well as her own training with numerous international-level trainers supports her training system.</p> <br><p> If you are interested in training with her,</p>
-              <a href="http://debbiefornia-dewittdressage.com/contact.htm">Click here to contact her.</a>
-            <br>
-            <br>
-             <nuxt-link to="/" class="board-link">Back to Home</nuxt-link>
-        </section>
-      </div>
 
-     <br>
+  <div class="train-page">
+      <img src="@/assets/images/doraProfile.jpg" class="image-style-left">
+      <section class="train-section-left-pic">
+        <a name="Dean"><h2>Dora Dean</h2></a>
+          <p>Dora has been teaching and training dressage riders and horses since 2004. From beginning walk-trot all the way through Grand Prix, Dora can help you reach your dressage dreams.</p>
+            <p>All those interested contact her: starlightdressage@hotmail.com.</p>
+          <br>
+          <br>
+           <nuxt-link to="/" class="board-link">Back to Home</nuxt-link>
+      </section>
+    </div>
+
+   <br>
 
    <!--div Two-->
-            <div class="train-page viv">
-              <section class="train-section-right-pic">
-                <a name="Doolittle"> <h2>Vivian Doolittle</h2></a>
-                   <p>I’ve been training and teaching professionally for over 35 years. I started my professional career as an assistant instructor at Sunnybrook Stables for the University of Washington Experimental College. I taught six Beginning Horsemanship group lessons a week, each with 5 to 7 riders </p>
-                   <br>
-                   <p>I have earned my USDF Bronze medal on a horse I trained myself. Subsequent to that, I did not show for 17 years after my divorce. I will be returning to the show ring in the 2021 season, competing my own and several clients’ horses. I have been trained all the way up the levels through the Grand Prix and I will be pursuing my silver and gold medals beginning in 2021.
-</p>              <br>
-                   <p>I believe that dressage is the language we invented to communicate with horses. We must teach them grammar and syntax before we can expect them to create great poetry. I specialize in adult beginning riders, but have also trained other professionals and all points in between. </p><br><p> If you are interested in training with her,</p>
-                <div>
-                  <p v-if="show"></p>
-                <span v-if="show">
-                  <p>{{contact}}</p>
-                </span>
-                <a @click="show = !show">Click here for her contact information</a>
-                  </div>
-                   <br>
-                   <br>
-                     <a href="#top" class="top-link">Back to Top</a>
-                     <br>
-                    <nuxt-link to="/" class="board-link">Back to Home</nuxt-link>
-               </section>
-               <img src="@/assets/images/viviandressage.jpg" alt="vivian in full dressage uniform competes on her horse" class="image-style-right">
-            </div>
 
-     <!--footer-->
+   <div class="train-page">
+       <img src="@/assets/images/whitehorsehead.jpg" alt="white horse head in bridle" class="train-section-right-pic">
+       <section class="train-section-left-pic">
+         <a name="Dewitt"><h2>Debbie Fornia-Dewitt</h2></a>
+           <p>Debbie Fornia-Dewitt offers the highest quality in dressage training, tailored toward each individual as well as each horse. She has been riding and training Dressage for over 30 years. Her experience with hundreds of horse-and-rider combinations as well as her own training with numerous international-level trainers supports her training system.</p> <br><p> If you are interested in training with her,</p>
+             <a href="http://debbiefornia-dewittdressage.com/contact.htm">Click here to contact her.</a>
+           <br>
+           <br>
+           <a href="#top" class="top-link">Back to Top</a>
+           <br>
+            <nuxt-link to="/" class="board-link">Back to Home</nuxt-link>
+       </section>
+     </div>
+
+    <br>
+
+  <!--footer-->
        <div class="horse-box">
          <footer>
 
@@ -150,10 +144,7 @@ export default {
   text-align: center;
 }
 
-.viv {
-display: flex;
-flex-direction: column-reverse;
-}
+
 
 .image-style-right {
   width: 60%;
