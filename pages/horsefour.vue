@@ -31,8 +31,7 @@
    <!--div Two-->
 
    <div class="train-page">
-       <img src="@/assets/images/whitehorsehead.jpg" alt="white horse head in bridle" class="train-section-right-pic">
-       <section class="train-section-left-pic">
+       <section class="train-section-right-pic">
          <a name="Dewitt"><h2>Debbie Fornia-Dewitt</h2></a>
            <p>Debbie Fornia-Dewitt offers the highest quality in dressage training, tailored toward each individual as well as each horse. She has been riding and training Dressage for over 30 years. Her experience with hundreds of horse-and-rider combinations as well as her own training with numerous international-level trainers supports her training system.</p> <br><p> If you are interested in training with her,</p>
              <a href="http://debbiefornia-dewittdressage.com/contact.htm">Click here to contact her.</a>
@@ -42,6 +41,7 @@
            <br>
             <nuxt-link to="/" class="board-link">Back to Home</nuxt-link>
        </section>
+       <img src="@/assets/images/whitehorsehead.jpg" alt="white horse head in bridle" class="image-style-right">
      </div>
 
     <br>
@@ -101,10 +101,11 @@ export default {
 }
 
 .image-style-right {
-  height: 30%;
-  width: 30%;
-  margin-top: 10%;
-  margin-bottom: 20%;
+  height: 40%;
+  width: 40%;
+  margin-top: 20%;
+  margin-left: 10%;
+  margin-bottom: 10%;
   border-bottom-left-radius: 50%;
   border-top-left-radius: 50%;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
@@ -117,8 +118,8 @@ export default {
 }
 
 .train-section-right-pic {
-  margin-top: 10%;
-  margin-right: 25%;
+  margin-top: 20%;
+  margin-right: 1%;
   margin-left: 10%;
   margin-bottom: 10%;
 }
