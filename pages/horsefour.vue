@@ -5,12 +5,12 @@
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
   </head>
     <a href="top"></a>
-  <h1 class="title">Meet Our Trainers</h1>
-    <h3 class="subtitle">We have on-sight trainers affliated with this barn. They can provide lessons to students of all skill levels.</h3>
-    <div>
+  <h1 class="title">Meet Our Trainer</h1>
+    <h3 class="subtitle">We have an on-sight trainer affliated with this barn. She can provide lessons to students of all skill levels.</h3>
+  <div>
       <a href="#Dean" class="about-link">Dora Dean</a>
-      <a href="#Dewitt" class="about-link">Debbie Fornia-Dewitt</a>
-  </div>
+      <!--<a href="#Dewitt" class="about-link"></a>-->
+   </div>
 
   <!--div One-->
 
@@ -19,7 +19,7 @@
       <section class="train-section-left-pic">
         <a name="Dean"><h2>Dora Dean</h2></a>
           <p>Dora has been teaching and training dressage riders and horses since 2004. From beginning walk-trot all the way through Grand Prix, Dora can help you reach your dressage dreams.</p>
-            <p>All those interested contact her: starlightdressage@hotmail.com.</p>
+            <p>All those interested contact her: starlitedressage@hotmail.com.</p>
           <br>
           <br>
            <nuxt-link to="/" class="board-link">Back to Home</nuxt-link>
@@ -30,10 +30,10 @@
 
    <!--div Two-->
 
-   <div class="train-page">
+   <!--<div class="train-page">
        <section class="train-section-right-pic">
-         <a name="Dewitt"><h2>Debbie Fornia-Dewitt</h2></a>
-           <p>Debbie Fornia-Dewitt offers the highest quality in dressage training, tailored toward each individual as well as each horse. She has been riding and training Dressage for over 30 years. Her experience with hundreds of horse-and-rider combinations as well as her own training with numerous international-level trainers supports her training system.</p> <br><p> If you are interested in training with her,</p>
+         <a name="Dewitt"><h2></h2></a>
+           <p>ou are interested in training with her,</p>
              <a href="http://debbiefornia-dewittdressage.com/contact.htm">Click here to contact her.</a>
            <br>
            <br>
@@ -42,9 +42,7 @@
             <nuxt-link to="/" class="board-link">Back to Home</nuxt-link>
        </section>
        <img src="@/assets/images/whitehorsehead.jpg" alt="white horse head in bridle" class="image-style-right">
-     </div>
-
-    <br>
+     </div>-->
 
   <!--footer-->
        <div class="horse-box">
