@@ -6,7 +6,7 @@
   </head>
     <a href="top"></a>
   <h1 class="title">Meet Our Trainer</h1>
-    <h3 class="subtitle">We have an on-sight trainer affliated with this barn. She can provide lessons to students of all skill levels.</h3>
+    <h3 class="subtitle">We have an on-sight trainer affiliated with this barn. She can provide lessons to students of all skill levels.</h3>
   <div>
       <a href="#Dean" class="about-link">Dora Dean</a>
       <!--<a href="#Dewitt" class="about-link"></a>-->
