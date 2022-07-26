@@ -11,7 +11,7 @@
     <div class="board-page board-part">
         <img src="@/assets/images/barnandstable.jpg" alt="a barn and a stable" class="services-pic-one">
         <section class="board-section-left-pic">
-          <h2>Horse Bording</h2>
+          <h2>Horse Boarding</h2>
           <p>Boarding is provided for a reasonable fee. All horses, have individual paddocks (12 x 12) with covered padded stalls. Stalls have attached mud-free paddocks Horses, are fed 2 times a day (in hay nets that provide hay all day and night). Stalls and paddocks are cleaned twice a day. There are 2 full size dressage arenas, one covered (with lights for night riding) and one outside sand arena.</p>
           <p>We take pride in being a small and drama-free barn.</p>
           <p>We provide:</p>
