@@ -32,7 +32,7 @@ export default {
 // first slot
         {
           type: "Full Care Boarding",
-          text: "$675 a month"
+          text: "$950 a month"
         },
 
 //second slot
