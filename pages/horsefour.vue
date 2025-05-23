@@ -5,10 +5,14 @@
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
   </head>
     <a href="top"></a>
-  <h1 class="title">Meet Our Trainer</h1>
-    <h3 class="subtitle">We have an on-sight trainer affiliated with this barn. She can provide lessons to students of all skill levels.</h3>
+  <h1 class="title">Meet Our Trainers</h1>
+    <h3 class="subtitle">We are currently searching for a new trainer.</h3>
   <div>
-      <a href="#Dean" class="about-link">Dora Dean</a>
+
+    <!--this is a link to the link to the link - I think the user can click between the hrefs here to get to the trainer website, therefore #trainer is a link to #ihaveawebsite which is a link to #http://ihavewebsite.com-->
+      <a href="#trainer" class="about-link">TBA</a>
+    
+    <!--link to go to website also here it should read #ihaveawebsite instead of #Dewitt which is the name of the link-->
       <!--<a href="#Dewitt" class="about-link"></a>-->
    </div>
 
@@ -17,9 +21,9 @@
   <div class="train-page">
       <img src="@/assets/images/doraProfile.jpg" class="image-style-left">
       <section class="train-section-left-pic">
-        <a name="Dean"><h2>Dora Dean</h2></a>
-          <p>Dora has been teaching and training dressage riders and horses since 2004. From beginning walk-trot all the way through Grand Prix, Dora can help you reach your dressage dreams.</p>
-            <p>All those interested contact her: starlitedressage@hotmail.com.</p>
+        <a name="Dean"><h2></h2></a>
+          <p></p>
+            <p>future website for future trainer</p>
           <br>
           <br>
            <nuxt-link to="/" class="board-link">Back to Home</nuxt-link>
@@ -32,9 +36,13 @@
 
    <!--<div class="train-page">
        <section class="train-section-right-pic">
-         <a name="Dewitt"><h2></h2></a>
-           <p>ou are interested in training with her,</p>
-             <a href="http://debbiefornia-dewittdressage.com/contact.htm">Click here to contact her.</a>
+  
+  <!--I need to put a link loop in the website here-->
+         <a name="ihaveawebsite"><h2></h2></a>
+           <p></p>
+  <!-- I need to put a website link here -->
+             <a href="http://ihaveawebsite.com">Click here to contact trainer.</a>
+  
            <br>
            <br>
            <a href="#top" class="top-link">Back to Top</a>
