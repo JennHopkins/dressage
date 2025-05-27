@@ -194,8 +194,8 @@ main {
     padding: 1%;
   }
   &.about {
-    margin: 50%;
-    padding: 30%;
+    margin: 20%;
+    padding: 10%;
   }
   &.trainer {
     padding: 10%;
