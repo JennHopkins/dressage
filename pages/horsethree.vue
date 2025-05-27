@@ -26,14 +26,16 @@
             <li style="color:white;">Friendly atmosphere!</li>
           </ul>
           <br>
+          <br>
+          <br>
         <p style="color:white;">Contact us if you'd like a barn tour!</p>
           <br>
-          <br>
+          
          
           <!--link "click here to go to prices"-->
              <a href="#horse-prices">Click here to go to prices</a>
           <br>
-          <br>
+          
         <nuxt-link to="/" class="board-link">Back to Home</nuxt-link>
         <br>
         <br>
