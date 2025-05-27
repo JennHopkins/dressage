@@ -17,7 +17,7 @@
     <div class="about-section-one">
           <section class="about-text first">
            <h2>History</h2>
-             <p > Carol started out teaching dressage riding and boarding horses 20 years ago in Kirkland before moving from Bridle Trails in Bellevue to the Equestrian area in Woodinville WA. Carol, a certified public school teacher, began teaching riding lessons in the year 2000.  Her background with horses started when she was 6 years old, riding ponies in the Michigan summers.  In 1970 she bought her first horse, and began riding lessons.</p>
+             <p style="color:white;"> Carol started out teaching dressage riding and boarding horses 20 years ago in Kirkland before moving from Bridle Trails in Bellevue to the Equestrian area in Woodinville WA. Carol, a certified public school teacher, began teaching riding lessons in the year 2000.  Her background with horses started when she was 6 years old, riding ponies in the Michigan summers.  In 1970 she bought her first horse, and began riding lessons.</p>
               <br>
               <br>
              <a href="#history"><div class="arrow bounce">
