@@ -23,7 +23,7 @@
       <section class="train-section-left-pic">
         <a name="Dean"><h2></h2></a>
           <p></p>
-            <p>future website for future trainer</p>
+            <p style = "color:white;">future website for future trainer</p>
           <br>
           <br>
            <nuxt-link to="/" class="board-link">Back to Home</nuxt-link>
