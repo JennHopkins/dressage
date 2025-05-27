@@ -13,10 +13,16 @@
    <div>{{ accordian.text }}</div>
  </template>
 
+ <div class="accordion-content" :class="{ 'active': open[index] }"> </div>
+        {{ item.content }}
+    
+        
 </accordianTemplate>
 </div>
 </div>
 </template>
+
+
 <script>
 import accordianTemplate from "@/components/accordianTemplate";
 
