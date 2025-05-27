@@ -51,3 +51,11 @@ export default {
 };
 
 </script>
+
+<style scoped>
+
+.accordion-content.active {
+  display: block; /* Show content when active */
+  color: white; /* Change content color when open */
+}
+</style>
