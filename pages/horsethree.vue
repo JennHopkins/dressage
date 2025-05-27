@@ -13,20 +13,22 @@
         <img src="@/assets/images/barnandstable.jpg" alt="a barn and a stable" class="services-pic-one">
         <section class="board-section-left-pic">
           <h2>Horse Boarding</h2>
-          <p>Boarding is provided for a reasonable fee. All horses, have individual paddocks (12 x 12) with covered padded stalls. Stalls have attached mud-free paddocks Horses, are fed 2 times a day (in hay nets that provide hay all day and night). Stalls and paddocks are cleaned twice a day. There are 2 full size dressage arenas, one covered (with lights for night riding) and one outside sand arena.</p>
-          <p>We take pride in being a small and drama-free barn.</p>
-          <p>We provide:</p>
+          <p style="color:white;">Boarding is provided for a reasonable fee. All horses, have individual paddocks (12 x 12) with covered padded stalls. Stalls have attached mud-free paddocks Horses, are fed 2 times a day (in hay nets that provide hay all day and night). Stalls and paddocks are cleaned twice a day. There are 2 full size dressage arenas, one covered (with lights for night riding) and one outside sand arena.</p>
+          <p style="color:white;">We take pride in being a small and drama-free barn.</p>
+          <p style="color:white;">We provide:</p>
           <ul>
-            <li>Full care horse board</li>
-            <li>Bedding for horses upon request</li>
-            <li>Individual paddocks</li>
-            <li>Tack room</li>
-            <li>Cross ties for grooming, visits with farrier, etc.</li>
-            <li>Hot and cold water wash rack</li>
-            <li>Friendly atmosphere!</li>
+            <li style="color:white;">Full care horse board</li>
+            <li style="color:white;">Bedding for horses upon request</li>
+            <li style="color:white;">Individual paddocks</li>
+            <li style="color:white;">Tack room</li>
+            <li style="color:white;">Cross ties for grooming, visits with farrier, etc.</li>
+            <li style="color:white;">Hot and cold water wash rack</li>
+            <li style="color:white;">Friendly atmosphere!</li>
           </ul>
-          <p>Contact us if you'd like a barn tour!</p>
-
+          <p style="color:white;">Contact us if you'd like a barn tour!</p>
+          <br>
+          <br>
+         
           <!--link "click here to go to prices"-->
              <a href="#horse-prices">Click here to go to prices</a>
           <br>
@@ -46,7 +48,7 @@
             <div class="trailer-part">
               <section class="board-section-right-pic">
                 <a name="trailer"> <h2>Trailer Parking</h2></a>
-                 <p>Trailer parking space is available for a modest fee. Space is limited, so contact us if interested.</p>
+                 <p style="color:white;">Trailer parking space is available for a modest fee. Space is limited, so contact us if interested.</p>
                            <!--link "click here to go to prices"-->
                    <a href="#horse-prices">Click here to go to prices</a>
                    <br>
@@ -58,9 +60,11 @@
                   <br>
                   <br>
                   <a name="horse-prices"><h1>Our Service Prices</h1></a>
-                  <p>Click on each service to find its price.</p>
+                  <p style="color:white;">Click on each service to find its price.</p>
                   <br/>
                   <accordian class="price-text"/>
+                <br>
+                <br>
                     <nuxt-link to="/horsefour" class="board-link">To Trainer Page</nuxt-link>
                     <br>
                     <br>
@@ -77,7 +81,7 @@
            <img src="@/assets/images/ladieshorseinties.jpg" alt="a barn and a stable" class="services-pic-three">
          <section class="board-section-left-pic">
            <a name="volunteer"><h2>Volunteer Opportunities</h2></a>
-             <p>For those who want to get the horse experience or just who enjoy working with horses, you can volunteer to work with the barn, arena or pasture areas. Contact us if interested.</p>
+             <p style="color:white;">For those who want to get the horse experience or just who enjoy working with horses, you can volunteer to work with the barn, arena or pasture areas. Contact us if interested.</p>
              <br>
              <br>
             <a href="#top">Back to Top</a>
