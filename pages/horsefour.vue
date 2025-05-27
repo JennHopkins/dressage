@@ -41,8 +41,9 @@
   <!--I need to put a link loop in the website here-->
          <a name="ihaveawebsite"><h2></h2></a>
            <p></p>
+
   <!-- I need to put a website link here -->
-             <a href="http://ihaveawebsite.com">Click here to contact trainer.</a>
+           <!--  <a href="http://ihaveawebsite.com">Click here to contact trainer.</a> -->
   
            <br>
            <br>
@@ -51,7 +52,7 @@
             <nuxt-link to="/" class="board-link">Back to Home</nuxt-link>
        </section>
        <img src="@/assets/images/whitehorsehead.jpg" alt="white horse head in bridle" class="image-style-right">
-     </div>-->
+     </div>
 
   <!--footer-->
        <div class="horse-box">
@@ -65,7 +66,8 @@
            <div class="horse-foot">
                <div class="fb-layout">
              <h3>Connect</h3>
-             <!--facebook stuff-->
+            
+                 <!--facebook stuff-->
 
         <i class="fab fa-facebook social-horse"></i>
         <a href="https://www.facebook.com/DressageDancers/"><button class="dressage-facebook">Facebook</button></a>
