@@ -35,11 +35,11 @@
                 <img src="@/assets/images/carolONhorse.jpg" alt="Carol wears helmet and rides a horse" class="about-pic-two">
              <section>
                <div class="about-text third">
-                <p><a name="history">During the years between 1976 -1980. Carol competed on the Hunter/Jumper A Show circuit. In 1986 Carol switched to riding Dressage.   After many years of lessons, clinics with well known trainers Carol began competing in Dressage,  In her many years of competing she has received many awards and championships.</p>
+                <p><a name="history">During the years between 1976 -1980. Carol competed on the Hunter/Jumper A Show circuit. In 1986 Carol switched to riding Dressage.   After many years of lessons, clinics with well known trainers Carol began competing in Dressage,  In her many years of competing she has received many awards and championships.
                   <br>
-                <p>Presently, Carol manages her barn along with an inhouse barn assistant who takes excellent care of the boarding horses.</a></p>
+                Presently, Carol manages her barn along with an inhouse barn assistant who takes excellent care of the boarding horses.
                    <br>
-                <p>Trainers are welcome to teach in her arenas.</p>
+                Trainers are welcome to teach in her arenas.</a></p>
               </div>
                <br>
                <br>
