@@ -9,7 +9,7 @@
     <h3 class="subtitle">We are currently searching for a new trainer.</h3>
   <div>
 
-    <!--this is a link to the link to the link - I think the user can click between the hrefs here to get to the trainer website, therefore #trainer is a link to #ihaveawebsite which is a link to #http://ihavewebsite.com-->
+    <!--this is a link to the link to the link - comment left by mcjulie as a test --I think the user can click between the hrefs here to get to the trainer website, therefore #trainer is a link to #ihaveawebsite which is a link to #http://ihavewebsite.com-->
       <a href="#trainer" class="about-link">TBA</a>
     
     <!--link to go to website also here it should read #ihaveawebsite instead of #Dewitt which is the name of the link-->
