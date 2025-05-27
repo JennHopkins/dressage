@@ -42,8 +42,8 @@
          <a name="ihaveawebsite"><h2></h2></a>
            <p></p>
 
-  <!-- I need to put a website link here -->
-           <!--  <a href="http://ihaveawebsite.com">Click here to contact trainer.</a> -->
+  <!-- I need to put a website link here - will put the text "click here to contact trainer" between a's below -->
+           <!--  <a href="http://ihaveawebsite.com"></a> -->
   
            <br>
            <br>
