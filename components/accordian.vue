@@ -43,7 +43,7 @@ export default {
 //third slot
         {
           type: "Lessons: with school horse",
-          text: "$55 for 45 minutes, $40 for 30 minutes (plan on approximately 15 minutes for tack up of horse). These are Carol's prices, see Trainer Page for other instructors' prices. Please note: Carol only takes on a small number of students"
+          text: "$95 for 40 minutes (plan on approximately 15 minutes for tack up of horse). These are Carol's prices, see Trainer Page for other instructors' prices. Please note: Carol only takes on a small number of students"
         },
            ]
     };
