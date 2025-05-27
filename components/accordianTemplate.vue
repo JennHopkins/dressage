@@ -48,6 +48,7 @@ export default {
 .type {
   margin: 0;
   font-size: 100%;
+  color: white;
   }
 .content {
   width: 100%;
