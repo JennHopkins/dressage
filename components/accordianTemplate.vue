@@ -43,6 +43,7 @@ export default {
 .accordion {
   display: flex;
   margin: 0;
+  color: white;
 }
 
 .type {
