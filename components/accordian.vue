@@ -13,8 +13,6 @@
    <div>{{ accordian.text }}</div>
  </template>
 
- <div class="accordion-content" :class="{ 'active': open[index] }"> </div>
-        {{ item.content }}
     
         
 </accordianTemplate>
@@ -60,8 +58,6 @@ export default {
 
 <style scoped>
 
-.accordion-content.active {
-  display: block; /* Show content when active */
-  color: white; /* Change content color when open */
+
 }
 </style>
