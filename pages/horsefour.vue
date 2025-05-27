@@ -10,7 +10,7 @@
   <div>
 
     <!--this is a link to the link to the link - comment left by mcjulie as a test --I think the user can click between the hrefs here to get to the trainer website, therefore #trainer is a link to #ihaveawebsite which is a link to #http://ihavewebsite.com-->
-      <a href="#trainer" class="about-link">TBA</a>
+      <a href="#trainer" class="about-link">We are looking for a new trainer!</a>
     
     <!--link to go to website also here it should read #ihaveawebsite instead of #Dewitt which is the name of the link-->
       <!--<a href="#Dewitt" class="about-link"></a>-->
