@@ -25,7 +25,8 @@
             <li style="color:white;">Hot and cold water wash rack</li>
             <li style="color:white;">Friendly atmosphere!</li>
           </ul>
-          <p style="color:white;">Contact us if you'd like a barn tour!</p>
+          <br>
+        <p style="color:white;">Contact us if you'd like a barn tour!</p>
           <br>
           <br>
          
