@@ -45,8 +45,8 @@
   <!-- I need to put a website link here - will put the text "click here to contact trainer" between a's below -->
            <!--  <a href="http://ihaveawebsite.com"></a> -->
   
-           <br>
-           <br>
+          <!-- took out <br>s to see if I can get footer to show up --> 
+          
            <a href="#top" class="top-link">Back to Top</a>
            <br>
             <nuxt-link to="/" class="board-link">Back to Home</nuxt-link>
