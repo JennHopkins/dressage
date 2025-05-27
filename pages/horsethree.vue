@@ -4,7 +4,7 @@
   <head>
      <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous">
   <style>
-      p{
+      h1,h2,h3,h4,p,li{
         color:white;
       }
    </style>
