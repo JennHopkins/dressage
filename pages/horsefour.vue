@@ -100,8 +100,8 @@ export default {
 }
 
 .image-style-left {
-  height: 50%;
-  width: 50%;
+  height: 70%;
+  width: 70%;
   border-bottom-right-radius: 50%;
   border-top-right-radius: 50%;
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
