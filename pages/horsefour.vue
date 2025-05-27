@@ -20,7 +20,7 @@
   <!--div One-->
 
   <div class="train-page">
-      <img src="@/assets/images/doraProfile.jpg" class="image-style-left">
+      <img src="@/assets/images/viviandressage.jpg" class="image-style-left">
       <section class="train-section-left-pic">
         <a name="Dean"><h2></h2></a>
           <p></p>
