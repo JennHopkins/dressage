@@ -51,7 +51,7 @@ export default {
   }
 .content {
   width: 100%;
-  border-bottom: 1px solid black;
+  border-bottom: 1px solid white;
   padding: 10px;
 }
 </style>
