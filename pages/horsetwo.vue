@@ -8,11 +8,15 @@
   <a href="top"></a>
   <h1 class="title">About Us</h1>
   <h2 class="subtitle">Dressage Dancers is a barn owned and managed by Carol Hopkins.</h2>
+
+  
 <div class="center-about-links">
   <nuxt-link to="/" class="about-link">Home</nuxt-link>
   <nuxt-link to="/horsethree" class="about-link">Services</nuxt-link>
   <nuxt-link to="/horsefour" class="about-link">Trainers</nuxt-link>
 </div>
+ 
+  
   <!--div One general history-->
     <div class="about-section-one">
           <section class="about-text first">
