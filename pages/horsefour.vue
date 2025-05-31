@@ -7,6 +7,15 @@
   </head>
     <a href="top"></a>
   <h1 class="title">Meet Our Trainers</h1>
+
+<div class="center-about-links">
+  <nuxt-link to="/" class="about-link">Home</nuxt-link>
+  <nuxt-link to="/horsethree" class="about-link">Services</nuxt-link>
+  <nuxt-link to="/horsefour" class="about-link">Trainers</nuxt-link>
+</div>
+  
+  <br>
+  <br>
     <h3 class="subtitle">We are currently searching for a new trainer.</h3>
   <div>
 
