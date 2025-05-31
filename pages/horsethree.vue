@@ -9,7 +9,11 @@
   <h1 class="title">Our Services</h1>
   <h2 class="subtitle">Here's what we can do for you</h2>
 
-
+<div class="center-about-links">
+  <nuxt-link to="/" class="about-link">Home</nuxt-link>
+  <nuxt-link to="/horsethree" class="about-link">Services</nuxt-link>
+  <nuxt-link to="/horsefour" class="about-link">Trainers</nuxt-link>
+</div>
   
   
   <!--div One-->
