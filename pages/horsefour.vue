@@ -7,16 +7,17 @@
   </head>
     <a href="top"></a>
   <h1 class="title">Meet Our Trainers</h1>
-
+ <h3 class="subtitle">These are all the trainers we have currently on site.</h3>
+  
 <div class="center-about-links">
   <nuxt-link to="/" class="about-link">Home</nuxt-link>
   <nuxt-link to="/horsethree" class="about-link">Services</nuxt-link>
   <nuxt-link to="/horsefour" class="about-link">Trainers</nuxt-link>
 </div>
-  
+ 
   <br>
   <br>
-    <h3 class="subtitle">We are currently searching for a new trainer.</h3>
+   
   <div>
 
     <!--this is a link to the link to the link - comment left by mcjulie as a test --I think the user can click between the hrefs here to get to the trainer website, therefore #trainer is a link to #ihaveawebsite which is a link to #http://ihavewebsite.com-->
@@ -27,7 +28,6 @@
    </div>
 
   <!--div One-->
-
   <div class="train-page">
       <img src="@/assets/images/viviandressage.jpg" class="image-style-left">
       <section class="train-section-left-pic">
