@@ -73,7 +73,7 @@
                   <a name="horse-prices"><h1>Our Service Prices</h1></a>
                   <p style="color:white;">Click on each service to find its price.</p>
                   <br/>
-                  <accordian class="price-text"/>
+                  <accordian class="price-text" style="color:white;"/>
                 <br>
                 <br>
                     <nuxt-link to="/horsefour" class="board-link">To Trainer Page</nuxt-link>
