@@ -18,6 +18,9 @@
   <br>
   <br>
   <br>
+  <br>
+  <br>
+  <br>
   <div>
 
     <!--this is a link to the link to the link - comment left by mcjulie as a test --I think the user can click between the hrefs here to get to the trainer website, therefore #trainer is a link to #ihaveawebsite which is a link to #http://ihavewebsite.com-->
