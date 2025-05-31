@@ -8,6 +8,10 @@
   <a href="top"></a>
   <h1 class="title">Our Services</h1>
   <h2 class="subtitle">Here's what we can do for you</h2>
+
+
+  
+  
   <!--div One-->
     <div class="board-page board-part">
         <img src="@/assets/images/barnandstable.jpg" alt="a barn and a stable" class="services-pic-one">
